@@ -1,4 +1,4 @@
-<h1 align="center">Xin chào 👋, tôi là VuMinhHa</h1>
+<h1 align="center">Hello 👋, I'm VuMinhHa</h1>
 <h3 align="center">Student at FPT colle</h3>
 
 <h3 align="left">Connect with me:</h3>
